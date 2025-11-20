@@ -1,0 +1,29 @@
+[
+  {
+    "uid": "1",
+    "subject": "Project submission deadline",
+    "from": "teacher@example.com",
+    "to": ["ramamarni4@gmail.com"],
+    "date": "2025-11-20 10:00",
+    "body_text": "Hi Surya,\nPlease submit your AI assignment by tomorrow evening.\nRegards,\nFaculty",
+    "snippet": "Please submit your AI assignment by tomorrow..."
+  },
+  {
+    "uid": "2",
+    "subject": "Interview schedule",
+    "from": "hr@company.com",
+    "to": ["ramamarni4@gmail.com"],
+    "date": "2025-11-18 16:30",
+    "body_text": "Dear candidate,\nWe would like to schedule your interview for Monday at 10 AM.\nBest,\nHR Team",
+    "snippet": "We would like to schedule your interview..."
+  },
+  {
+    "uid": "3",
+    "subject": "College fest invitation",
+    "from": "events@college.edu",
+    "to": ["ramamarni4@gmail.com"],
+    "date": "2025-11-15 09:15",
+    "body_text": "Hello,\nYou are invited to participate in the tech fest. Please register before Friday.\nThanks,\nEvent Team",
+    "snippet": "You are invited to participate in the tech fest..."
+  }
+]
